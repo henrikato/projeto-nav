@@ -26,5 +26,15 @@
         "dev": "nodemon",
         "start": "node server.js",
         "test": "mocha --recursive tests --exit"
-    }
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/henrikato/projeto-nav.git"
+    },
+    "author": "Henrique T. Kato",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/henrikato/projeto-nav/issues"
+    },
+    "homepage": "https://github.com/henrikato/projeto-nav#readme"
 }
